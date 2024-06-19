@@ -5,11 +5,11 @@
 Currency Converter es un proyecto hecho en java con el fin de completar el challenge del curso BackEnd dictado por Alura LATAM, tiene como objetivo realizar conversión de monedas especiíficas ofrecidas por la aplicación.
 
 <h3>Screenshots:</h3>
-![menu.png](.\src\menu.png)
+![menu.png](src/menu.png)
 
-![ejemplo.png](.\src\ejemplo.png)
+![ejemplo.png](src/ejemplo.png)
 
-![resumen de operaciones.png](.\src\resumen%20de%20operaciones.png)
+![resumen de operaciones.png](src/resumen%20de%20operaciones.png)
 
 <h3>Funciones del projecto</h3>
 
